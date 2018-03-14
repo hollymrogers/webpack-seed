@@ -1,4 +1,3 @@
-/*export function cube(x) {
+export function cube(x) {
   return x * x * x;
 }
-*/
